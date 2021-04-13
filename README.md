@@ -3,7 +3,8 @@ Sebuah tools untuk mengkrek
 ### Instalasi
 ```
 $pkg install python
-$pip install git
+$pkg install git
+$pip install requests bs4 futures
 $git clone https://github.com/Rizal-XD/rmbf
 $cd $HOME/rmbf
 $python run.py
